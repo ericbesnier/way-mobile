@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "648797721385",
+    "firebase_url": "https://way-205813.firebaseio.com",
+    "project_id": "way-205813",
+    "storage_bucket": "way-205813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648797721385:android:2fa1761c1a6084e7",
+        "android_client_info": {
+          "package_name": "com.deepfocusengineering.way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648797721385-dnu2ajmrcvbr3tnf1oei4m5otb5ckiqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuVdML812yXZu6oW5r5ubtlPqTZGf2pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648797721385-dnu2ajmrcvbr3tnf1oei4m5otb5ckiqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648797721385-6826runjm4lrcfhovb875sm95sgbef1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648797721385:android:c50a50694481ad60079d38",
+        "android_client_info": {
+          "package_name": "com.deepfocusengineering.way.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648797721385-dnu2ajmrcvbr3tnf1oei4m5otb5ckiqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuVdML812yXZu6oW5r5ubtlPqTZGf2pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648797721385-dnu2ajmrcvbr3tnf1oei4m5otb5ckiqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648797721385-6826runjm4lrcfhovb875sm95sgbef1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648797721385:android:6215c761ed0fd926079d38",
+        "android_client_info": {
+          "package_name": "com.deepfocusengineering.way.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648797721385-dnu2ajmrcvbr3tnf1oei4m5otb5ckiqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuVdML812yXZu6oW5r5ubtlPqTZGf2pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648797721385-dnu2ajmrcvbr3tnf1oei4m5otb5ckiqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648797721385-6826runjm4lrcfhovb875sm95sgbef1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
