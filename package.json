@@ -21,7 +21,7 @@
     "expo-google-app-auth": "^8.1.0",
     "expo-sqlite": "~8.1.0",
     "expo-task-manager": "~8.1.0",
-    "firebase": "7.9.0",
+    "firebase": "10.9.0",
     "randomcolor": "^0.5.4",
     "react": "16.13.1",
     "react-dom": "^16.9.0",
